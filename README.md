@@ -38,5 +38,5 @@ find the most probable churners._
 
 ### Model Explainability:
 * Interpret the model's results
-* Asses feature importance and impact
+* Assess feature importance and impact
 
